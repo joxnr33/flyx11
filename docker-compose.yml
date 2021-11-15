@@ -1,7 +1,7 @@
 version: "3.3"
    
 services:
-  slam:
+  slamm:
     build: .
     command: bash start.sh
     restart: on-failure
